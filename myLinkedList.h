@@ -1,3 +1,9 @@
+// File: myLinkedList.h
+// Author: Patrick Rek
+// Date : Spring 2014 
+// Last Updated by: Patrick Rek 24/09/15
+// Description: My linked list class modified for AVL Tree.
+
 #pragma once
 #include <iostream>
 #include <fstream>

@@ -1,3 +1,8 @@
+// File: AVLFinalProject.cpp
+// Author: Patrick Rek
+// Date : Spring 2014 
+// Last Updated by: Patrick Rek 24/09/15
+// Description: Main for AVLTree project.
 
 #include "stdafx.h"
 #include "myLinkedList.h"
